@@ -1,0 +1,18 @@
+insert 14 vY
+range output 20 30
+range output -30 -24
+insert -14 Wt
+range output 14 21
+range erase 4 12
+range output -19 -8
+range output 25 30
+insert 7 Dv
+insert -13 Dm
+range output -12 26
+insert -28 if
+range output 26 28
+range output -28 21
+range erase -11 29
+range erase -21 7
+insert -24 Yd
+range erase -24 -15

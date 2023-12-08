@@ -1,0 +1,9 @@
+a a abaa
+a aa baa
+a aab aa
+a aaba a
+aa a baa
+aa ab aa
+aa aba a
+aaa b aa
+aaa ba a

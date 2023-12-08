@@ -1,0 +1,28 @@
+New Cat Born!
+Now Zoo have 1 animals!
+New Dog Born!
+Now Zoo have 2 animals!
+New Caog Born!
+Now Zoo have 3 animals!
+Cat
+meow!
+Cat
+Cat
+it looks so happy!
+Dog
+woof!
+Dog
+it looks happy!
+Dog
+Caog
+woof!woof!meow!
+Caog
+it looks happy!
+Caog
+it looks so happy!
+One Cat Dead!
+Now Zoo have 2 animals!
+One Dog Dead!
+Now Zoo have 1 animals!
+One Caog Dead!
+Now Zoo have 0 animals!

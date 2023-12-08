@@ -1,0 +1,14 @@
+Raichu used Headbutt!
+Raichu now has 3 HP.
+Raichu used Headbutt!
+Raichu now has 3 HP.
+Raichu used Headbutt!
+Raichu now has 0 HP.
+Raichu is the winner! Raichu died in vain...
+
+Raichu used Rest!
+Raichu now has 11 MP.
+Golbat used Headbutt!
+Raichu now has 0 HP.
+Golbat is the winner! Raichu died in vain...
+

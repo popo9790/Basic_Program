@@ -1,0 +1,7 @@
+Game Start
+Player 0 is holding the ball!
+Ball is at 1, 0.
+Player 0 is holding the ball!
+Ball is at 1, 0.
+Player 1 is holding the ball!
+Ball is at 1, 0.

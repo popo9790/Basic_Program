@@ -1,0 +1,25 @@
+stack push 1
+stack push 2
+stack push 3
+stack top
+stack pop
+stack top
+stack push 4
+stack top
+stack pop
+stack pop
+stack pop
+queue push 1
+queue push 2
+queue push 3
+queue front
+queue pop
+queue front
+queue push 4
+queue front
+queue pop
+queue front
+queue pop
+queue front
+queue pop
+exit
